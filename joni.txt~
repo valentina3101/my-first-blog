@@ -1,0 +1,608 @@
+    1  touch archivo1
+    2  touch archivo2
+    3  touch archivo3
+    4  cd Escritorio/
+    5  ln -s /home/segundo18/archivo1 .
+    6  ls -l
+    7  sudo shutdown -r 20 "reiniciar"
+    8  cat /etc/skel/.bashre
+    9  cat /etc/skel/.bashrc
+   10  less /etc/skel/.bashrc
+   11  more /etc/skel/.bashrc
+   12  head /etc/skel/.bashrc
+   13  head -n 10
+   14  head -n 10 /etc/skel/.bashrc
+   15  head -n 20 /etc/skel/.bashrc
+   16  tail -n 15 /etc/skel/.bashrc
+   17  tail -f /etc/skel/.bashrc
+   18  sudo apt-get install apache2
+   19  sudo apt-get update
+   20  cd
+   21  sudo tail -f /var/log/apache2/access.log
+   22  sudo tail -f /var/log/mozilla/access.log
+   23  sudo tail -f /var/log/mozilla/5.0/access.log
+   24  wc/etc/skel/.bashre
+   25  wc /etc/skel/.bashre
+   26  wc /etc/skel/.bashrc
+   27  wc -l/etc/skel/.bashrc
+   28  sudo updatedb
+   29  locate so
+   30  locate *.so
+   31  locate *.py
+   32  find /etc/ -name *.conp
+   33  find /etc/ -name *.conf
+   34  find / -size +1024k -size -2048k
+   35  find / -mtime +7 -mtime -10
+   36  whereis updatedb
+   37  which ls
+   38  grep segundo18 /etc/passwd
+   39  grep pepito /etc/passwd
+   40  mkdir -p sistemaoperativo/kernel/subsistema
+   41  ls
+   42  cd
+   43  cd subsistemaoperativo
+   44  cd sistemaoperativo
+   45  ls
+   46  cd kernel
+   47  ls 
+   48  cd ..
+   49  mkdir -p aplicaciones/userApps/ofimatica
+   50  cd aplicaciones
+   51  mkdir -p aplicaciones/userApps/red
+   52  cd
+   53  ls
+   54  mkdir -p aplicaciones/userApps/red
+   55  ls
+   56  cd
+   57  mkdir -p systemTools/copilador
+   58  ls
+   59  cd systemTools/copilador
+   60  cd
+   61  echo "Debian 6" > sistemaoperativo/kernel/version 
+   62  ls
+   63  echo "multiusuario" > sistemaoperativo/kernel/clasificacion/usuario
+   64  echo "kernel monolitico" > sistemaoperativo/kernel/clasificaion/arquitectura
+   65  echo "kernel monolitico" > sistemaoperativo/kernel/clasificacion/arquitectura
+   66  echo "multitarea" > sistemaoperativo/kernel/clasificacion/procesos
+   67  touch sistemaoperativo/kernel/subsistemas/memoria
+   68  ls
+   69  touch > sistemaoperativo/kernel/subsistemas/memoria
+   70  cd
+   71  ls
+   72  reboot
+   73  sudo apt apdate
+   74  sudo apt search virtualbox
+   75  sudo apt install virtualbox-guest-additions-iso
+   76  cat /etc/apt/sources.list
+   77  sudo gedit /etc/apt/sources.list
+   78  sudo/apt update
+   79  sudo apt update
+   80  cd /etc/apt/sources.list.d/
+   81  pwd
+   82  ls
+   83  /etc/apt/sources.list.d/
+   84  ls
+   85  sudo gedit vscode.list 
+   86  sudo apt update
+   87  cat/etc/passwd
+   88  cat /etc/passwd
+   89  cd
+   90  cat /etc/passwd
+   91  sudo usermod -s /bin/false tercero 19
+   92  sudo adduser tercero 19
+   93  sudo groupadd los decadentes
+   94  sudo groupadd losdecadentes
+   95  sudo groupadd losvalentines
+   96  sudo groupadd valentinalacuadrado
+   97  sudo groupadd muchasoledad
+   98  history
+   99  histori.txt
+  100  python
+  101  def sumar_numeros(q):
+  102  sumador = 0
+  103  cantidad_numero = len(q)
+  104  for z in range(0, cantidad_numero):
+  105  sumador = sumador + q[z]
+  106  python
+  107  #Programa que calcule el promedio de una lista
+  108  def promedio_numeros():
+  109  sumatoria_lista, cantidad = sumar_numeros(q)
+  110  promedio = sumatoria_lista / cantidad
+  111  return promedio
+  112  def sumar_numeros(q):
+  113  sumador = 0
+  114  cantidad_numero = len(q)
+  115  for z in range(0, cantidad_numero):
+  116  sumador = sumador + q[z]
+  117  return sumador, cantidad_numero
+  118  def main(lista_numero):
+  119  promedio_numero()
+  120  pwd
+  121  ls -l
+  122  python 3.py
+  123  ls
+  124  python
+  125  def sumar_numeros(q):
+  126  sumador = 0
+  127  cantidad_numero = len(q)
+  128  for z in range(0, cantidad_numero):
+  129  sumador = sumador + q[z]
+  130  return sumador, cantidad_numeropython
+  131  python
+  132  python
+  133  tar --get
+  134  tar --help
+  135  tar -cvzf sistemaoperativo.tar.gz
+  136  tar -cvzf sistemaoperativo.tar.gz sistemaoperativo/
+  137  tar -tf sistemaoperattivo.tar.gz 
+  138  tar -tf sistemaoperattivo/.tar.gz 
+  139  tar -cvzf sistemaoperativo.tar.gz
+  140  tar -cvzf sistemaoperativo.tar.gz sistemaoperativo/
+  141  rm -rf 
+  142  tar -rf sistemaoperativo.tar.gz sistemaoperativo/
+  143  tar -rf sistemaoperativo.tar.gz 
+  144  mr -rf sistemaoperativo.tar.gz 
+  145  sudo apt-get install myrepos
+  146  mr -rf sistemaoperativo.tar.gz 
+  147  rm -rf sistemaoperativo.tar.gz 
+  148  tar-xf sistemaoperativo.tar.gz
+  149  tar-xvzf sistemaoperativo.tar.gz
+  150  tar -cvzf sistemaoperativo.tar.gz sistemaoperativo/
+  151  tar -tf sistemaoperativo.tar.gz
+  152  rm -rf sistemaoperativo.tar.gz
+  153  history > history.txt
+  154  cd Escritorio/
+  155  ar t smplayer_0.8.6-2_i386.deb 
+  156  ar x smplayer_0.8.6-2_i386.deb 
+  157  tar -xvzf control.tar.gz
+  158  gedit control
+  159  tar -xvzf data.tar.gz
+  160  ls -l
+  161  sudo gedit /etc/apt/sarces.list
+  162  sudo gedit /etc/apt/sources.list
+  163  sudo apt.get update 
+  164  sudo apt-get update 
+  165  sudo apt-get cache heard vlc
+  166  sudo apt-cache heard vlc
+  167  sudo apt-cache search vlc
+  168  sudo apt-cache show vlc
+  169  sudo apt-get isntall aptitude
+  170  sudo apt-get install aptitude
+  171  sudo apt-cache search vlc
+  172  sudo aptitude search vlc 
+  173  sudo dpkg -i smplayer_0.8.6-2_i386.deb 
+  174  sudo aptitude -f install
+  175  sudo apt -f install
+  176  sudo apt-get install.deb
+  177  sudo apt-get install .deb
+  178  sudo apt-get install smplayer.deb
+  179  sudo apt-get install smplayer_0.8.6-2_i386.deb
+  180  sudo dpkg -i smplayer_0.8.6-2_i386.deb
+  181  cd Escritorio/
+  182  sudo dpkg -i smplayer_0.8.6-2_i386.deb
+  183  sud apt-cache search 
+  184  sud apt-cache search smplayer_0.8.6-2_i386.deb 
+  185  sudo apt-cache search smplayer_0.8.6-2_i386.deb 
+  186  sudo apt-cache search smplayer 
+  187  sudo apt-get purge smplayer 
+  188  sudo apt-get update
+  189  sudo apt-get install vlc
+  190  sudo apt-get purge vlc
+  191  sudo dpkg -i smplayer 
+  192  sudo dpkg -i smplayer_0.8.6-2_i386.deb 
+  193  sudo dpkg -i smplayer.deb 
+  194  sudo apt install apache2
+  195  sudo apt install mysql-server
+  196  sudo mysql_install_db
+  197  /usr/bin/mysqladmin -u root password 'new-password'
+  198  sudo /usr/bin/mysqladmin -u root password '159753'
+  199  sudo /etc/init.d/mysql stop
+  200  sudo /usr/sbin/mysqld --skip-grant-tables --skip-networking &
+  201  sudo mysql -u root
+  202  ps -ef
+  203  sudo kill -9 4665
+  204  sudo kill -9 4664
+  205  sudo mysql -u root -p
+  206  sudo /etc/init.d/mysql start
+  207  sudo mysql -u root -p
+  208  finger mlopez
+  209  sudo apt-get install finger
+  210  finger mlopez
+  211  sudo adduser mlopez
+  212  sudo cat /etc/passwd
+  213  cat /etc/group
+  214  sudo cat /etc/shadow
+  215  sudo usermod -s /bin/false mlopez
+  216  su mlopez
+  217  sudo adduser mlopez
+  218  cat /etc/passwd
+  219  cat /etc/group
+  220  sudo cat/etc/shadow
+  221  sudo /etc/shadow
+  222  sudo cat /etc/shadow
+  223  sudo usermod -s /bin/false mlopez
+  224  su mlopez
+  225  sudo usermod -s /bin/bash mlopez
+  226  sudo apt-get install finger
+  227  finger mlopez
+  228  finger segundo19
+  229  finger segundo18
+  230  finger tercero19
+  231  finger administrador
+  232  cat /etc/passwd
+  233  sudo usermod -c "juan manuel lopez"
+  234  sudo mlopez
+  235  su mlopez
+  236  sudo usermod -c "juan manuel lopez" mlopezf
+  237  finger mlopez
+  238  sudo usermod -G video,mail,cdrom mlopez
+  239  cat /etc/group
+  240  python
+  241  sudo aptitude search apache2
+  242  sudo apt install php5 libapache2-mod-php5 php5-common
+  243  sudo apt install mysql-server mysql-client php5-mysql
+  244  cd Descargas
+  245  ls
+  246  sudo cp wordpress-4.9.5-es_AR.tar.gz /var/www/html/
+  247  tar -xvzf wordpress-4.9.5-es_AR.tar.gz 
+  248  ls
+  249  sudo cp /var/www/html/
+  250  sudo cp /home/segundo18/Descarga/wordpress-4.9.5-es_AR.tar.gz/var/www/html/
+  251  sudo cp /home/segundo18/Descarga/wordpress-4.9.5-es_AR.tar.gz /var/www/html/
+  252  sudo cp /home/segundo18/Descargas/wordpress-4.9.5-es_AR.tar.gz /var/www/html/
+  253  cd  /var/www/html/
+  254  ls
+  255  tar -xvzf wordpress-4.9.5-es_AR.tar.gz 
+  256  sudo tar -xvzf wordpress-4.9.5-es_AR.tar.gz 
+  257  ls
+  258  gedit /var/www/html/
+  259  sudo gedit /var/www/html/
+  260  sudo gedit /etc/php5/apache2/php.ini
+  261  sudo gedit  /etc/php5/cli/php.ini
+  262  sudo apt search apache2
+  263  sudo apt install php5 libapache2-mod-php5 php5-common
+  264  sudo apt install mysql-server mysql-client php5-mysql
+  265  cp Descargas/wordpress-4.9.5-es_AR.tar.gz /var/www/html/
+  266  sudo cp Descargas/wordpress-4.9.5-es_AR.tar.gz /var/www/html/
+  267  cd /var/www/html/
+  268  tar -xvzf wordpress-4.9.5-es_AR.tar.gz
+  269  mysql -u root -p
+  270  cd
+  271  mysql -u root -p
+  272  sudo chmod 777 /var/www/html/wordpress/ -R
+  273  history
+  274  ls -IR sistemaoperativo/>/sistemaoperativo/sistema
+  275  cat sistemaoperativo/sistema
+  276  cat sistemaoperativo
+  277  sudo python-psutil
+  278  sudo apt-get python-psutil
+  279  sudo apt-get install python-psutil
+  280  python
+  281  python3
+  282  python
+  283  psutil
+  284  python-psutil
+  285  gsutil
+  286  pip install psutil
+  287  python 
+  288  sudo apt-get install python2.7.9 
+  289  sudo apt-get install python2.7.8 
+  290  sudo apt-get install python2.7.7
+  291  sudo apt-get install python2.7.6
+  292  wget https://bootstrap.pypa.io/get-pip.py -O - | python
+  293  sudo wget https://bootstrap.pypa.io/get-pip.py -O - | python
+  294  python2.7.9
+  295  python2.7
+  296  sudo python2.7
+  297  python3 --version
+  298  python2 --version
+  299  sudo pip3 install psutil
+  300  python3
+  301  python3 --version
+  302  python3
+  303  sudo python
+  304  sudo python3
+  305  history > holiasdds.txt
+  306  python3
+  307  ls
+  308  cd Escritorio
+  309  ls
+  310  python3 python_prueba.py
+  311  python
+  312  python3
+  313  python3 python_prueba.py
+  314  ls
+  315  cd Escritorio
+  316  python3 python_prueba.py
+  317  cd Escritorio
+  318  python3 python_prueba.py
+  319  cd Escritorio
+  320  python3 python_prueba.py
+  321  ptthon3
+  322  python3
+  323  cd Escritorio
+  324  python3 python_prueba.py
+  325  history >> registro.txt
+  326  python3 python_prueba.py
+  327  PWD
+  328  pwd
+  329  cd Escritorio
+  330  python3 python_prueba.py
+  331  cd Escritorio
+  332  python3 python_prueba.py
+  333  cd Escritorio
+  334  python3 python_prueba.py
+  335  cd Escritorio
+  336  python3 python_prueba.py
+  337  cd Escritorio
+  338  python3 python_prueba.py
+  339  cd Escritorio
+  340  python3 python_prueba.py
+  341  cd Escritorio
+  342  python3 python_prueba.py
+  343  sudo apt-get geany
+  344  sudo apt-get install geany
+  345  open geady
+  346  geady
+  347  su geany
+  348  sudo geany
+  349  sudo apt-get install gedit
+  350  python
+  351  python3
+  352  cd Escritorio
+  353  python3 python_prueba.py
+  354  cd Escritorio
+  355  python3 python_prueba.py
+  356  cd Escritorio
+  357  python3 python_prueba.py
+  358  python3
+  359  help
+  360  python3
+  361  sudo geany
+  362  python3
+  363  python
+  364  sudo geany
+  365  history
+  366  cd /var/html/wordpress/plugms/themes
+  367  /var/html/wordpress/plugms/themes
+  368  cd /var/www/html/wordpress/plugms/themes
+  369  palabras = []
+  370  palabras = cadena.split()
+  371  palabras.reverse()
+  372  python
+  373  sudo geany
+  374  cd
+  375  cd /var/www/html/wordpress/
+  376  ls
+  377  ls -l
+  378  cd /var/www/html/wordpress/wp-content/
+  379  ls
+  380  cd /var/www/html/wordpress/plugins/themes/
+  381  /var/www/html/wordpress/plugins/themes/
+  382  cd /var/www/html/wordpress/
+  383  ls
+  384  ls -l
+  385  cd /var/www/html/wordpress/wp-content/
+  386  ls
+  387  sudo cp /home/segundo18/escritorio/twentyseventeen-wpcom-1-0.zip/
+  388  sudo cp /home/segundo18/escritorio/twentyseventeen-wpcom-1-0.zip/ > /var/www/html/wordpress/wp-content
+  389  cd
+  390  cd /home/segundo18/escritorio/
+  391  sudo cp /home/segundo18/Escritorio/twentyseventeen-wpcom-1-0.zip/ > /var/www/html/wordpress/wp-content
+  392  cd /home/segundo18/Escritorio/
+  393  sudo cp twentyseventeen-wpcom-1-0.zip /var/www/html/wordpress/wp-content
+  394  cd /var/www/html/wordpress/wp-content
+  395  ls -l
+  396  /home/segundo18/Escritorio/
+  397  cd /themes/
+  398  cd /themes
+  399  cd themes/
+  400  sudo cp /home/segundo18/Escritorio/twentyfourteen.2.2.zip .
+  401  ls
+  402  ls -l
+  403  unzip twentyfourteen.2.2.zip 
+  404  top
+  405  sudo renice 10 3954
+  406  yes > /dev/null/ &
+  407  jobs
+  408  yes > /dev/null/ &
+  409  jobs
+  410  yes > /dev/null/ &
+  411  dev/null &
+  412  yes > /dev/null &
+  413  ps
+  414  top
+  415  yes >/dev/null &
+  416  ps
+  417  top
+  418  yes >/dev/null &
+  419  ps
+  420  top
+  421  sudo renice 10 4209
+  422  yes >/dev/null &
+  423  yes >/dev/null &
+  424  ps
+  425  top
+  426  yes >/dev/null &
+  427  jobs
+  428  fg %2
+  429  bg %2
+  430  cd Descargas
+  431  noselab1
+  432  cd Descargas
+  433  noselab1
+  434  cd
+  435  pip --version
+  436  sudo apt-get install python3 python3-pip
+  437  pip3 --version
+  438  pip3 jupyter
+  439  pip3 install jupyter
+  440  jupyter notebook 
+  441  sudo pip3 install jupyter
+  442  jupyter notebook 
+  443  nosetests test/test.py
+  444  cd Descargas
+  445  cd noselab
+  446  nosetests test/test.py
+  447  sudo apt-get install python-nose
+  448  nosetests test/test.py
+  449  nosetests tests/test.py
+  450  cd Descargas
+  451  cd noselab
+  452  nosetests tests/test.py
+  453  cd Descargas
+  454  cd noselab
+  455  nosetests tests/test.py
+  456  cd Descargas
+  457  cd noselab
+  458  nosetests tests/test.py
+  459  cd noselab
+  460  cd Descargas
+  461  cd noselab
+  462  nosetests tests/test.py
+  463  cd Descargas
+  464  cd noselab
+  465  nosetests tests/test.py
+  466  nosetests tests/test.py
+  467  cd Descargas
+  468  cd noselab
+  469  nosetests tests/test.py
+  470  cd Descargas
+  471  cd noselab
+  472  nosetests tests/test.py
+  473  cd Descargas
+  474  cd noselab
+  475  nosetests tests/test.py
+  476  cd Descargas
+  477  cd noselab
+  478  nosetests tests/test.py
+  479  cd Documentos
+  480  cd noselab
+  481  nosetests tests/test.py
+  482  yes > /dev/null &
+  483  ps
+  484  top
+  485  yes > /dev/null &
+  486  ps
+  487  top
+  488  yes > /dev/null &
+  489  jobs
+  490  fg %2
+  491  bg %2
+  492  jobs
+  493  kill -9 3410
+  494  kill
+  495  killall yes
+  496  ls -l/> listado.txt
+  497  ls -l /> listado.txt
+  498  cat listado.txt | more
+  499  less -M listado.txt | more
+  500  history
+  501  sudo renice 10 3410
+  502  yes > /dev/null &
+  503  python
+  504  history
+  505  >>> Nodo.mostrar(i1)
+  506  Martin
+  507  Soledad
+  508  Cecilia
+  509  Ricardo
+  510  git clone https://github.com./luirro777/esqueleto
+  511  git clone https://github.com./luirro777/esqueletos
+  512  git clone https://github.com./luirro777/esqueletos.
+  513  git clone https://github.com/luirro777/esqueletos.
+  514  geany
+  515  sudo apt install git
+  516  sudo apt-get update
+  517  sudo apt-get update --fix-missing
+  518  sudo apt install git
+  519  git clone https://github.com/luirro777/esqueletos.
+  520  git https://github.com/luirro777/esqueletos.
+  521  sudo apt-get git
+  522  sudo apt-get install git
+  523  git clone https://github.com/luirro777/esqueletos
+  524  geany menu.py
+  525  geany esqueleto
+  526  geany esqueletos
+  527  ls
+  528  esqueletos
+  529  PsutilOpcion.py
+  530  ls PsutilOpcion.py
+  531  python
+  532  python
+  533  python
+  534  python
+  535  python
+  536  python
+  537  geady
+  538  pluma
+  539  history >> holis.txt
+  540  ls
+  541  mv holis.txt /medias/MYLINUXLIVE
+  542  mv holis.txt /media/MYLINUXLIVE
+  543  sudo mv holis.txt /media/MYLINUXLIVE
+  544  ls
+  545  sudo pip3 install jupyter
+  546  sudo pip3 install numpy
+  547  sudo pip3 install jupyter
+  548  history
+  549  mkdir jupyter
+  550  cd
+  551  cd jupyter
+  552  jupyter notebook 
+  553  cd
+  554  sudo pip3 install numpy
+  555  history
+  556  history >> jumpy.txt
+  557  man history
+  558  history >> jumpy.txt
+  559  history
+  560  sudo pip3 install numpy
+  561  numpy --version
+  562  'pip install --upgrade pip
+  563  pip install --upgrade pip
+  564  sudo pip install --upgrade pip
+  565  jupyter notebook 
+  566  cd jupyter
+  567  jupyter notebook 
+  568  cd segundo18
+  569  cd 
+  570  sudo pip3 install numpy
+  571  sudo pip3 install matplotlib
+  572  sudo pip3 install numpy
+  573  numpy --version
+  574  pip install --upgrade pip
+  575  sudo apt-get upgrade
+  576  sudo pip3 install numpy
+  577  pip
+  578  sudo pip3 install numpy
+  579  pip install --upgrade pip
+  580  sudo pip3 install numpy
+  581  sudo pip install --upgrade jupyter
+  582  sudo pip3 install numpy
+  583  sudo pip install --upgradejupyter
+  584  sudo pip3 install numpy
+  585  sudo pip install --upgrade jupyter
+  586  pip install --upgrade pip
+  587  sudo pip install --upgrade pip
+  588  sudo pip3 install numpy
+  589  pthon3
+  590  sudo pip3 install numpy
+  591  sudo pip install --upgrade jupyter
+  592  sudo pip3 install numpy
+  593  numpy --version
+  594  sudo pip install --upgrade pip
+  595  sudo pip3 install --upgrade pip3
+  596  sudo pip3 install --upgrade pip
+  597  sudo pip3 install numpy
+  598  sudo pip3 install matplotlib
+  599  matplotlib --version
+  600  python3
+  601  sudo pip3 install matplotlib --ignore-installed six 
+  602  python3
+  603  sudo pip3 install matplotlib --ignore-installed six 
+  604  jupyter notebook 
+  605  source myvenv/bin/activate
+  606  python manage.py startapp blog 
+  607  tree
+  608  history > joni.txt
